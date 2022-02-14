@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD echo [ "Hello Nautilus" ]
+CMD echo [ "Hello Nautilus - GROCEDY" ]
